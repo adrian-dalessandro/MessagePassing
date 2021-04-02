@@ -5,9 +5,9 @@ Hello world!
 Links
 -----
 
-- [RStudio Devtools][1]
-- [testthat][2]
-- [More unit test examples][3]
+\[1\] [RStudio Devtools][1]
+\[2\] [testthat][2]
+\[3\] [More unit test examples][3]
 
 [1]: https://stackoverflow.com/users/214446/mb21
 [2]: https://github.com/hadley/testthat
