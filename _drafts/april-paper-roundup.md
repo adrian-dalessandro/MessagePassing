@@ -14,4 +14,4 @@ tags: papers roundup posterity
 5. _Sarlin, Paul-Edouard, et al._ "__[Superglue: Learning feature matching with graph neural networks.](https://openaccess.thecvf.com/content_CVPR_2020/html/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.html)__" Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020.
 6. _Sun, Jiaming, et al._ "__[LoFTR: Detector-Free Local Feature Matching with Transformers.](https://arxiv.org/abs/2104.00680)__" arXiv preprint arXiv:2104.00680 (2021).
 7. _Michał Tyszkiewicz, Pascal Fua, and Eduard Trulls._ "__[DISK: Learning local features with policy gradient.](https://arxiv.org/abs/2006.13566)__" NeurIPS, (2020).
-8. _Rocco, Ignacio, et al._ "__[Neighbourhood consensus networks.](https://arxiv.org/abs/1810.10510)__" NeurIPS, (2018).
+8. "__[Neighbourhood consensus networks.](https://arxiv.org/abs/1810.10510)__" _Rocco, Ignacio, et al._, NeurIPS, (2018).
