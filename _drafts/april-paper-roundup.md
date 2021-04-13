@@ -4,7 +4,7 @@ title: "April Paper Roundup"
 tagline: "A selection of my favorite papers during the month of April"
 author: Adrian D'Alessandro
 excerpt_separator: <!--more-->
-tags: papers roundup posterity
+tags: papers roundup posterity matching augmentation
 ---
 
 # April Paper Roundup
@@ -12,6 +12,19 @@ tags: papers roundup posterity
 ## Superglue: Learning feature matching with graph neural networks [\[1\]](#References)
 __High Level Overview__:  
 __Summary__:
+
+## LoFTR: Detector-Free Local Feature Matching with Transformers [\[2\]](#References)
+__High Level Overview__:  
+__Summary__:
+
+## DISK: Learning local features with policy gradient [\[3\]](#References)
+__High Level Overview__:  
+__Summary__:
+
+## Neighbourhood consensus networks [\[4\]](#References)
+__High Level Overview__:  
+__Summary__:
+
 
 ## References
 1. "__[Superglue: Learning feature matching with graph neural networks.](https://openaccess.thecvf.com/content_CVPR_2020/html/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.html)__". _Sarlin, Paul-Edouard, et al._, Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020.
