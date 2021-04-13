@@ -9,7 +9,7 @@ tags: papers roundup posterity
 
 # April Paper Roundup
 
-## Superglue: Learning feature matching with graph neural networks
+## Superglue: Learning feature matching with graph neural networks [\[1\]](#References)
 __High Level Overview__:  
 __Summary__:
 
