@@ -13,15 +13,15 @@ tags: papers roundup posterity matching augmentation
 __High Level Overview__:  
 __Summary__:
 
-## LoFTR: Detector-Free Local Feature Matching with Transformers [\[2\]](#References)
+## LoFTR: Detector-Free Local Feature Matching with Transformers <sup>[\[2\]](#References)</sup>
 __High Level Overview__:  
 __Summary__:
 
-## DISK: Learning local features with policy gradient [\[3\]](#References)
+## DISK: Learning local features with policy gradient <sup>[\[3\]](#References)</sup>
 __High Level Overview__:  
 __Summary__:
 
-## Neighbourhood consensus networks [\[4\]](#References)
+## Neighbourhood consensus networks <sup>[\[4\]](#References)</sup>
 __High Level Overview__:  
 __Summary__:
 
