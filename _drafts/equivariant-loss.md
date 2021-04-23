@@ -8,7 +8,7 @@ tags: localization weak supervision
 ---
 
 Weakly supervised localization is the very challenging task of identifying and grouping the regions of an image that contain some object of interest when the only information you have is that the object of interest is present within the image. Perhaps you have a whole bunch of images of horses and dogs, and you want to figure out exactly which pixels in an image belong to the dogs and which pixels belong the horses -- BUT you only know if an image contains a horse or a dog. You haven't been told where they are. It's an interesting problem!
-[//]: <> (Maybe put a picture here?)
+[//]:  # (Maybe put a picture here?)
 
 
 ## References
