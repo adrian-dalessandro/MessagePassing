@@ -11,6 +11,9 @@ Weakly supervised localization is the very challenging task of identifying and g
 
 [//]:  # (Maybe put a picture here?)
 
+### The Equivariant Regularizer
+
+### Affine Transformations 
 
 ## References
 1. "__[Self-supervised equivariant attention mechanism for weakly supervised semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.html)__". Wang, Yude, et al., Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. __2020__.
