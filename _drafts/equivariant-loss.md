@@ -7,13 +7,22 @@ excerpt_separator: <!--more-->
 tags: localization weak supervision
 ---
 
-Weakly supervised localization is the very challenging task of identifying and grouping the regions of an image that contain some object of interest when the only information you have is that the object of interest is present within the image. Perhaps you have a whole bunch of images of horses and dogs, and you want to figure out exactly which pixels in an image belong to the dogs and which pixels belong the horses -- BUT you only know if an image contains a horse or a dog. You haven't been told where they are. It's an interesting problem!
+Weakly supervised object localization (WSOL) is the very challenging task of identifying and grouping the regions of an image that contain some object of interest when the only information you have is that the object of interest is present within the image. Perhaps you have a whole bunch of images of horses and dogs, and you want to figure out exactly which pixels in an image belong to the dogs and which pixels belong the horses -- BUT you only know if an image contains a horse or a dog. You haven't been told where they are. It's an interesting problem!
 
 [//]:  # (Maybe put a picture here?)
+
+So, what options do we have for approaching this problem and what 
+
+### The Ill-posedness of Weakly Supervised Object Localization
 
 ### The Equivariant Regularizer
 
 ### Affine Transformations 
+
+### Todo
+
+1. Ill-posedness
+2. Inductive Bias
 
 ## References
 1. "__[Self-supervised equivariant attention mechanism for weakly supervised semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.html)__". Wang, Yude, et al., Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. __2020__.
