@@ -11,9 +11,14 @@ Weakly supervised object localization (WSOL) is the very challenging task of ide
 
 [//]:  # (Maybe put a picture here?)
 
-So, what options do we have for approaching this problem and what 
+So, what are the major limitations that make this problem challenging and what are potential solutions? Here, I want to talk about equivariant losses and their applications.
 
 ### The Ill-posedness of Weakly Supervised Object Localization
+It's useful here to find a way to describe the class of problem that we're dealing with when attempting to solve WSOL. The French mathematician Hadamard provides the concept of a well-posed problem that outlines 3 very useful properties for describing problems that we would like to model. These properties are:
+1. A solution exists for any data relevant to the problem.
+2. The solution is unique.
+3. The solution is stable, i.e. the solution depends continuously on changes in the data.
+There are several different aspects of the weakly supervised object localization problem that can violate these conditions, which would make WSOL an ill-posed problem.
 
 ### Inductive Bias with the Equivariant Regularizer
 
