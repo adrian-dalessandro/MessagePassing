@@ -18,6 +18,7 @@ It's useful here to find a way to describe the class of problem that we're deali
 1. A solution exists for any data relevant to the problem.
 2. The solution is unique.
 3. The solution is stable, i.e. the solution depends continuously on changes in the data.
+
 There are several different aspects of the weakly supervised object localization problem that can violate these conditions, which would make WSOL an ill-posed problem.
 
 ### Inductive Bias with the Equivariant Regularizer
