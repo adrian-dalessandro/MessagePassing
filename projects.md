@@ -1,6 +1,7 @@
 ---
 layout: adaptive
 title: Projects
+permalink: /projects/
 leftcolumn:
   - content
 rightcolumn:
