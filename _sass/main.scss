@@ -116,8 +116,13 @@ table {
   width: 100%;
 }
 
+
+table td + td { 
+  border-left:1px solid #ddd;
+  padding: 8px; }
+
 th {
-  border: 1px solid #ddd;
+  border: 1px solid #274e13;
   padding: 8px;
 }
 
